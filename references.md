@@ -1,0 +1,3 @@
+- https://argo-cd.readthedocs.io/en/latest/getting_started/
+- https://www.freecodecamp.org/news/how-to-implement-gitops-on-kubernetes-using-argo-cd/
+- https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers/blob/main/14-continuous-delivery-using-gitops/argocd.md#kubectl-based-installation
